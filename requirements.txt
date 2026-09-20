@@ -1,0 +1,11 @@
+langchain-core
+langchain-groq
+langchain-openai
+langchain-community
+langchain-chroma
+langchain-text-splitters
+langgraph
+pydantic
+pypdf
+python-dotenv
+reportlab
